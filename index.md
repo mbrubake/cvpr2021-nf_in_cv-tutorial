@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This half-day CVPR 2021 tutorial will cover Normalizing Flows and Invertible Neural Networks with a specific focus on applications in computer vision.  The tutorial will be held in the morning tutorial session on June 20, 2021 as a live, interactive lecture on Zoom and is available to registered CVPR attendees only.  The Zoom link will be available through the CVPR online platform.
+This half-day CVPR 2021 tutorial will cover Normalizing Flows and Invertible Neural Networks with a specific focus on applications in computer vision.
 
 
 ### Background 
@@ -17,10 +17,13 @@ Particular emphasis will be given to successful applications in the field of com
 
 
 ### Target Audience
+
 The tutorial is intended to be introductory, i.e., aimed at people with basic backgrounds in ML/CV who are interested in applying these methods in related problems.
 
 
 ### Schedule
+
+The tutorial will be held in the morning tutorial session on June 20, 2021 as a live, interactive lecture on Zoom and is available to registered CVPR attendees only.  The Zoom link will be available through the CVPR online platform.
 
 | Time (EST) | Title                                                                         | Presenter       |
 |------------|-------------------------------------------------------------------------------|-----------------|
