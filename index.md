@@ -22,11 +22,13 @@ The tutorial is intended to be introductory, i.e., aimed at people with basic ba
 
 ### Schedule
 
-| Time (EST) | Title                                                                                                         | Presenter       |
-|------------|---------------------------------------------------------------------------------------------------------------|-----------------|
-| 10am-11am  | Welcome and Introduction to Normalizing Flows                                                                 | Marcus Brubaker |
-| 11am-noon  | Examples of Normalizing Flows in Computer Vision<br>- Wavelet Flow (NeurIPS 2020)<br>- Noise Flow (ICCV 2019) | Marcus Brubaker |
-| noon-2pm   | Invertible Neural Networks in Computer Vision and Science                                                     | Ullrich Koethe  |
+| Time (EST) | Title                                                                         | Presenter       |
+|------------|-------------------------------------------------------------------------------|-----------------|
+| 10am-11am  | Welcome and Introduction to Normalizing Flows                                 | Marcus Brubaker |
+| 11am-noon  | Examples of Normalizing Flows in Computer Vision: Wavelet Flow and Noise Flow | Marcus Brubaker |
+| noon-2pm   | Invertible Neural Networks in Computer Vision and Science                     | Ullrich Köthe   |
+|------------|-------------------------------------------------------------------------------|-----------------|
+
 
 ### References
 - [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) by Ivan Kobyzev, Simon J.D. Prince and Marcus A. Brubaker. IEEE PAMI, 2020.
