@@ -2,8 +2,7 @@
 layout: default
 ---
 
-This half-day CVPR 2021 tutorial will cover Normalizing Flows and Invertible Neural Networks with a specific focus on applications in computer vision.
-
+This half-day CVPR 2021 tutorial will cover Normalizing Flows and Invertible Neural Networks with a specific focus on applications in computer vision.  The tutorial will be held in the morning tutorial session on June 20, 2021 as a live, interactive lecture on Zoom and is available to registered CVPR attendees only.  The Zoom link will be available through the CVPR online platform.
 
 
 ### Background 
@@ -19,6 +18,15 @@ Particular emphasis will be given to successful applications in the field of com
 
 ### Target Audience
 The tutorial is intended to be introductory, i.e., aimed at people with basic backgrounds in ML/CV who are interested in applying these methods in related problems.
+
+
+### Schedule
+
+| Time (EST) | Title                                                                                                         | Presenter       |
+|------------|---------------------------------------------------------------------------------------------------------------|-----------------|
+| 10am-11am  | Welcome and Introduction to Normalizing Flows                                                                 | Marcus Brubaker |
+| 11am-noon  | Examples of Normalizing Flows in Computer Vision<br>- Wavelet Flow (NeurIPS 2020)<br>- Noise Flow (ICCV 2019) | Marcus Brubaker |
+| noon-2pm   | Invertible Neural Networks in Computer Vision and Science                                                     | Ullrich Koethe  |
 
 ### References
 - [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) by Ivan Kobyzev, Simon J.D. Prince and Marcus A. Brubaker. IEEE PAMI, 2020.
