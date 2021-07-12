@@ -37,7 +37,7 @@ The tutorial will be held in the morning tutorial session on June 20, 2021 as a 
 A complete recording of the live tutorial session is available on [YouTube here](https://youtu.be/8XufsgG066A).  Slides are available below:
 - [Introduction to Normalizing Flows](Introduction - CVPR2021.pdf) by Marcus Brubaker
 - [Examples of Normalizing Flows in Computer Vision: Noise Flow and Wavelet Flow](Noise Flow and Wavelet Flow - CVPR2021.pdf) by Marcus Brubaker
-
+- Other slides to come...
 
 ### References
 - [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) by Ivan Kobyzev, Simon J.D. Prince and Marcus A. Brubaker. IEEE PAMI, 2020.
